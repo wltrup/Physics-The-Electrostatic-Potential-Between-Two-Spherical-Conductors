@@ -2,9 +2,7 @@
 
 A non-trivial exercise in Mathematical Physics and its applications to Classical Electromagnetism, this essay solves in detail the problem of computing an analytical solution for the electrostatic potential between two conducting spheres. Originally written on January 4, 2010.
 
-![](1st_four_modes.png)
-
-First 4 transverse normal modes.
+![](spheres.png)
 
 ## Creator
 
